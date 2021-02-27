@@ -1,4 +1,1 @@
 Angular named test file.
-Second line in angular text file.
-Third line added.
-Fourth Line added.
