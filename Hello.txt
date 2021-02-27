@@ -1,8 +1,2 @@
 This is Git learning text file.
 This is second line.
-<<<<<<< HEAD
-Third line.
-Fourth Line.
-=======
-This is third line.
->>>>>>> d589d14dd04373a749c0c52bd5f28da5b96a2c62
